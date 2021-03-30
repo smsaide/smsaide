@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saide.
-- 👀 I’m interested in Computer Networking
+- 👀 I’m interested in Computer Networking.
 - 🌱 I’m currently learning CCNA.
 - 💞️ I’m looking to collaborate on any networking projects which are developed around python.
 - 📫 Rreach me at: mohammadsaide98@gmail.com
