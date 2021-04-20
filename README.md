@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Saide.
-- 👀 I’m interested in Computer Networking.
-- 🌱 I’m currently learning CCNA.
+- 👀 I’m interested in Computer Programming, Cybersecurity and Computer Networking.
+- 🌱 I’m currently learning Python Programming along with Computer Networking.
 - 💞️ I’m looking to collaborate on any projects which are developed using python.
-- 📫 Rreach me at: mohammadsaide98@gmail.com
+- 📫 Reach me at: mohammadsaide98@gmail.com
 
 <!---
 smsaide/smsaide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
