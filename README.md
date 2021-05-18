@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saide.
-- 👀 I’m interested in Computer Programming, Cybersecurity and Computer Networking.
-- 🌱 I’m currently learning Python Programming along with Computer Networking.
-- 💞️ I’m looking to collaborate on any projects which are developed using python.
+- 👀 I’m interested in Cybersecurity and Computer Networking, Computer Programming,.
+- 🌱 I’m currently learning Automation and Computer Networking.
+- 💞️ I’m looking to collaborate on any projects which are developed using python or related to Networking.
 - 📫 Reach me at: mohammadsaide98@gmail.com
 
 <!---
