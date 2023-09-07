@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Saide.
-- 👀 I’m interested in Cybersecurity, Computer Networking and Computer Programming.
-- 🌱 I’m currently learning Blue Team Fundamentals.
-- 💞️ I’m looking to collaborate on any projects which are developed using python or related to Networking.
+- 👀 I’m interested in increasing the efficiency of Security Operations.
+- 💞️ I’m looking to collaborate on projects related to Security Operations Engineering.
 - 📫 Reach me at: mohammadsaide98@gmail.com.
 
 <!---
